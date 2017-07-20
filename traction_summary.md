@@ -649,11 +649,10 @@ Note: Many of Airbnb's customers were originally posting to craigslist as that w
 ----
 
 ## Case Study: Evernote
-> "We work day and night, for weeks in advance, to make sure that Evernote is in teh app store on day 1"
+> "We work day and night, for weeks in advance, to make sure that Evernote is in the app store on day 1"
 
 * Evernote uses existing platforms as their main traction channel
-* They are literally on every device
-* The receive early promotion for free, but with risk that platform fails
+* They receive early promotion for free, but with risk that platform fails
 * They think about what editors want 
     * Evernote Peak used Apple's smart cover to create flashcards
 
