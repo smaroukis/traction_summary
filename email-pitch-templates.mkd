@@ -1,0 +1,36 @@
+## Pitch Templates
+Below is an email pitch Jason Baptiste sent to TechCrunch just before launching PadPressed, his startup that helps blogs look better on iPads. It’s a solid example of a good pitch – short, to the point, contains clear contact information, and links to a product demo. He even mentions he’s happy to do a product giveaway, which makes this pitch even more attractive.
+
+*Subject: Exclusive for TC: Launching PadPressed – make any blog feel like a native iPad app
+Hey Mike,
+Launching PadPressed tomorrow at noon EST and TC gets free reign on an exclusive before then. PadPressed makes any blog look and behave like a native iPad app. We’re talking accelerometer aware column resizing, swipe to advance articles, touch navigation, home screen icon support, and more. We’ve built some pretty cool tech to make this happen smoothly, and it works with your existing layout (iPad layout only activated when the blog is accessed from an iPad). Okay, I’ll shut up now and you can check out the demo links/feature pages below, which are much more interesting than my pitch.
+PS – Would also be happy to do giveaways to TC readers. Thanks again and feel free to reach out if you have any more questions (Skype, phone, etc. listed below).
+Video Demo: http://vimeo.com/13487300
+Live demo site (if you’re on an iPad): jasonlbaptiste.com
+Feature overviews: http://padpressed.com/features
+My contact info: j@jasonlbaptiste.com, Phone: 772.801.1058, Twitter: @jasonlbaptiste, Skype: jasonlbaptiste
+       –jlb
+772.801.1058*
+
+Every pitch can be further improved, and Jason Kincaid had some suggestions to make this pitch even better. He said the email comes across as a “wall of text,” something busy reporters who receive hundreds of emails get tired of seeing. He also mentioned that the timing of the launch is unclear. Be succinct and clear.
+
+When pitching to any media outlet, it’s your job to create an angle that makes your story compelling. If you can craft a narrative (e.g. how we just doubled our userbase through x, y, and z) and present it well, you greatly increase your chances of getting a story.
+A good angle makes people react emotionally. If it’s not interesting enough to elicit an emotion, you don’t have a story worth pitching. Furthermore, your story should provoke a feeling in readers that makes them want to share it with others. As Ryan said, “satisfaction is a non-viral emotion” – you want readers to do something after reading your piece, not just feel satisfied.
+
+For example, Ryan worked with a client who wrote a book about how Wall Street operates. The book contained technical details about high-frequency stock trading and its impact on the economy. However, when they pitched the story, they focused on the book’s implication that the stock market is essentially rigged.
+
+This pitch resulted in much more press than a book about the stock market typically would receive. Rather than leaving it up to reporters to figure out how to position the story, they now had a story “handle” they could grab when writing about the book. This handle created a strong reaction after readers learned that the stock market is essentially a fixed game, which drove conversation around the book.
+
+Once you pick an angle that works, Ryan offered this template email he’s used to pitch reporters successfully:
+
+*Subject: Quick question
+Hey [name],
+I wanted to shoot you a note because I loved your post on [similar topic that did a lot of traffic]. I was going to give the following to our publicist, but I thought I would go to you with the exclusive because I read and really enjoy your stuff. My [company built a userbase of 25,000 paying customers in two months without advertising / book blows the lid of an enormous XYZ scandal]. And I did it completely off the radar. This means you would be the first to have it. I can write up any details you’d need to make it great. Do you think this might be a good fit?
+If so, should I draft something around [their average] words and send it to you, or do you prefer a different process? If not, I totally understand, and thanks for reading this much.
+All the best,
+[Your Name]*
+
+### PR Tactics
+After coverage in small blogs, you’re in a good position to start pitching larger and more influential media. Follow influencers in your industry and reach out to the blogs they often link to. Those blogs are likely the starting points for much of the news that filters up to the larger outlets.
+
+Have a goal in mind when you choose where to focus your pitching efforts. If you want funding, or if your target users are the startup/tech crowd, TechCrunch and re/code are good places to go. If you are trying to get users outside of the tech world, pitch the blogs and news outlets your users frequent.
