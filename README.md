@@ -9,4 +9,5 @@ Slides can be found at: https://smaroukis.github.io/traction_summary/
 Make necessary edits in `traction_summary.md` (see github.com/webpro/reveal-md) 
 
 Create static html file with `reveal-md traction_summary.md --static .`
+Change the title with `ex -sc '%s/reveal-md/Traction: A Summary/g|x' index.html`
 `git commit`,`git push`, etc.
