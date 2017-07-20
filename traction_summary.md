@@ -26,7 +26,7 @@
 
 ----
 
-One traction channel dominates in terms of customer acquisition. 
+**One traction channel**<!-- .element: class="fragment highlight-red" --> dominates in terms of customer acquisition. 
 
 <img src="img/bullseye_red.png"/>
 
@@ -97,7 +97,7 @@ Note: Here is a viral loop. It is pretty simple, but difficult to achieve. The p
 ----
 
 ### Viral Math
-* K = [Invites per User] x [Conversion %]
+* *viral coefficient*, K = [Invites per User] x [Conversion %]
 * Conversion %, made of Click Thru % and Sign Up %
 * K>1: exponential
 * K>0.5: worth pursuing
@@ -203,7 +203,7 @@ Note: Gifts include swag, handwritten notes and books. Contests and giveaways ar
 * Look for larger trends
     * hit themes that don't have a ton of content yet
 * Success is unpredictable
-    * have a **defined process** for brainstorming and selecting ideas
+    * have a **defined process**<!-- .element: class="fragment highlight-red" --> for brainstorming and selecting ideas
 
 Note: Look for larger trends to capitalize on media coverage, and try to find ones that don't have a ton of content yet. As is, this channel is especially unpredictable, so have a defined process for brainstorming and selecting ideas.
 
@@ -294,6 +294,8 @@ Note: Company behind *archives.com*, sold to *ancestry.com*. SEM provides baseli
 
 Note: Social ads are the ones you see on social networks. They're often not directed at converting users (since it takes away from the social experience), but more towards building a brand image. Create an environment within the social context where you can build a loyal following then migrate this following toward conversion at a later date. Compelling content is key, as a following will only amass around a compelling message. Use content distribution networks such as Outbrain and Sharethrough to get your message out, and once a fire starts to burn around your message deploy social advertisement dollars. 
 
+----
+
 ### Targets
 * Make a list of small sites and contact them directly
 * Use an indirect response strategy on social ads, providing compelling content first and foremost
@@ -348,7 +350,6 @@ Note: InstaCab hired cyclists to bike around SF and hand out business cards to p
 
 ## Strategies
 Your ability to rank on the first page should be a deciding factor in whether to pursue a particular SEO strategy at all.
-* Fat Head vs. Long Tail
 
 <img src="img/seo.png"/>
 
@@ -482,14 +483,14 @@ Note: Personalization is key for activating potential users. You'll notice that 
 # 10. Targeting Blogs
 > "Go Where Your Potential Customers Are"
 
-* Good for Phase I
+* Good for **Phase I** <!-- .element: class="fragment highlight-green" --> 
 * Advertisements, guest posts, & coverage
 * Mint case study
 
 ----
 
 ## Case Study: Mint
-* 20k signups *before* launch, 1M within 6 mo. of launch
+* 20k signups *before* launch, 100k within 6 mo. of launch, 1M within 12
 * Tested different segments 
 * Covered/mentioned by blogs
 * Wrote guests posts
@@ -501,7 +502,6 @@ Note: Mint tested different segments of possible users by having different types
 ----
 
 ## Targets
-* Good for **Phase I** <!-- .element: class="fragment highlight-green" --> 
 * Make a list of all relevant blogs
 * Run tests on a variety of blogs and audiences
 * Use linksharing communities to generate traffic, feedback, and buzz
@@ -646,6 +646,8 @@ Note: Create a pipeline of deals and always be on the lookout for new ones. Make
 
 Note: Many of Airbnb's customers were originally posting to craigslist as that was what they were comfortable with. Although Airbnb was a safer alternative, people still wanted the visibility of being on craigslist, so Airbnb build a feature that automatically crossposted Airbnb listings to craigslist. Youtube & Myspace: Myspace didn't have a native video player (no one did at the time), so YouTube made their videos embeddable and leveraged the strength of Myspace at the time. 
 
+----
+
 ## Case Study: Evernote
 > "We work day and night, for weeks in advance, to make sure that Evernote is in teh app store on day 1"
 
@@ -711,13 +713,13 @@ Note: In phase I when you don't have much traction it is important to do things 
 3. Consider larger events focusing on attendee quality 
 
 
-Note: The easiest thing to do is just attend local meetups that are already in your space. I think it is important here not to try to sell anyone on anything - make sure your face is shown a few times, organically engage as part of the community, talk to customers about their problems, and then if these problems align with your solution, show how you can help. Next is starting your own meetup. If you're an SEO firm you would start a meetup that talks about the latest and greatest in SEO software. You can also sponsor a meetup, which could include hosting a meetup in your office space, or providing food and drink to attendees. Throwing a party can also be an effective way to get some traction. Yelp tied this into an exclusivity factor by throwing parties for Yelp Elites (top users) and treating them like VIPs, encouraging other users to be more active on the site. Scaling: you can test if there is an apetite for a larger event by hosting a day-long mini-conference. Make sure to have high quality speakers and attendees. Companies selling products can offset the cost of putting on larger conferences.
+Note: The easiest thing to do is just attend local meetups that are already in your space. I think it is important here not to try to sell anyone on anything - make sure your face is shown a few times, organically engage as part of the community, talk to customers about their problems, and then if these problems align with your solution, show how you can help. Next is starting your own meetup. If you're an SEO firm you would start a meetup that talks about the latest and greatest in SEO software. You can also sponsor a meetup, which could include hosting a meetup in your office space, or providing food and drink to attendees. Throwing a party can also be an effective way to get some traction. Yelp tied this into an exclusivity factor by throwing parties for Yelp Elites (top users) and treating them like VIPs, encouraging other users to be more active on the site. Scaling: you can test if there is an appetite for a larger event by hosting a day-long mini-conference. Make sure to have high quality speakers and attendees. Companies selling products can offset the cost of putting on larger conferences.
 
 ----
 
 ## Targets
 * Attend and engage at local meetups
-* See if there is an apetite for bigger events
+* See if there is an appetite for bigger events
 * Be creative
 
 Note: The only marketing money Twiter ever spent was at SXSW in 2007. They had early users and saw that they could capitalize on the event. They didn't want a booth on the floor, they wanted to be in the hallways, where they thought the action was. They negotiated with the conference and spent $11k to put flatscreen TV's in the hallways with Twitter visualizers, and allowed people to sign up and have their name on the screens by texting to their SMS shortcode.
@@ -751,7 +753,7 @@ Note: Start out by giving free talks to small groups of potential customers or p
 * Have one or two core talks
 * Advanced
     * Record speaking engagements
-    * Resuse slides - each slide is a story and can be swapped
+    * Reuse slides - each slide is a story and can be swapped
     * Build relationships at e.g. speakers dinners
 
 ----
@@ -775,7 +777,7 @@ Note: Start out by giving free talks to small groups of potential customers or p
 ### Examples
 * Stack Exchange
     * Joel Spolsky and Jeff Atwood were already "internet famous"
-    * Found what their community needed and build it
+    * Found what their community needed and built it
 * Reddit
     * Alexis Ohanian sent emails to anyone who wrote about reddit
     * Sent early users shirts, stickers, and other gifts
