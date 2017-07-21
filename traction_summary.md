@@ -1,6 +1,6 @@
 # A Summary of _Traction_
 ### by Spencer Maroukis
-<a href = "https://www.edibleproject.io">
+<a href = "https://www.edibleproject.io/?utm_source=github&utm_medium=content&utm_content=beginning">
     <img src="img/powered_by_edible.png"/>
 </a>
 
@@ -806,6 +806,6 @@ Note: It is important to make people feel like they are joining something bigger
 * Get the whole book: 
     * [free with university log in](http://proquest.safaribooksonline.com.proxy.lib.umich.edu/book/sales-and-marketing/9780976339601) | [text](http://tractionbook.com) | [audible](https://www.audible.com/pd/Business/Traction-Audiobook/B01705KJRQ?qid=1500578267&sr=1-2)
 * Learn more about **The Edible Project**: <!-- .element: class="fragment highlight-green" --> 
-    * [www.edibleproject.io](https://www.edibleproject.io)
+    * [www.edibleproject.io](https://www.edibleproject.io/?utm_source=github&utm_medium=content&utm_content=end)
 
 
