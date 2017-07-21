@@ -21,3 +21,9 @@ Create static html file with `reveal-md traction_summary.md --static .`
 Change the title with `ex -sc '%s/reveal-md/Traction: A Summary/g|x' index.html`
 
 `git commit`,`git push`, etc.
+
+##Todo
+* Photo cred 
+* by Spencer -> summarized by Spencer
+
+* Formatting of 3. Unconventional PR
