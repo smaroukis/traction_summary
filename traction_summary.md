@@ -1,5 +1,8 @@
-# A Summary of _Traction_
-### by Spencer Maroukis
+A Summary of 
+# _Traction_ <!-- .element:class="fragment highlight-green" -->
+### _How Any Startup Can Achieve Explosive Customer Growth_
+by Spencer Maroukis
+
 <a href = "https://www.edibleproject.io/?utm_source=github&utm_medium=content&utm_content=beginning">
     <img src="img/powered_by_edible.png"/>
 </a>
