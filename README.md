@@ -1,10 +1,3 @@
-## Todo:
-* Image Resizing
-    * SEO image
-    * Publicity Stunt "chargify.png"
-    * bullseye_yellow.png in Bullseye Framework > Slide 5
-* Change image borders
-* More graphics
 
 ### To Spin Up Locally
 See [reveal-md](https://www.github.com/webpro/reveal-md) and [reveal.js](https://www.github.com/hakimel/reveal.js) for installation instructions.
@@ -22,8 +15,12 @@ Change the title with `ex -sc '%s/reveal-md/Traction: A Summary/g|x' index.html`
 
 `git commit`,`git push`, etc.
 
-##Todo
+## Todo:
+* Image Resizing
+    * SEO image
+    * Publicity Stunt "chargify.png"
+    * bullseye_yellow.png in Bullseye Framework > Slide 5
+* Change image borders
+* More graphics
 * Photo cred 
-* by Spencer -> summarized by Spencer
-
 * Formatting of 3. Unconventional PR
