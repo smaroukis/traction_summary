@@ -55,7 +55,7 @@ Select the three most promising channels and build *quick tests*.
 * *How many customers are available in this channel*?
 * *Are the customers in this channel the kind we want right now*? 
 
-<img src="img/bullseye_yellow.png"/>
+<img src="img/half_yellow.png"/>
 Note: Tests must answer the following questions. 
 
 ----
@@ -181,7 +181,7 @@ Note: After you have a solid story released you need to push it out in the world
 * Richard Branson
 * Chargify Bull at SXSW
 
-<img src="img/chargify.png"/>
+<img src="img/chargify.jpg"/>
 Note: In 1999 Half.com renamed the town of Halfway, OR for a year when they launched gaining the national spotlight. Chargify hired a matador and a green bull to run around SXSW for $3000 and received hundreds of users from the stunt (the matador was kicked out). 
 
 ----
@@ -811,4 +811,9 @@ Note: It is important to make people feel like they are joining something bigger
 * Learn more about **The Edible Project**: <!-- .element: class="fragment highlight-green" --> 
     * [www.edibleproject.io](https://www.edibleproject.io/?utm_source=github&utm_medium=content&utm_content=end)
 
+---
 
+### Sources
+* <img src="img/small_chargify.jpg"/> "Chargify Bull" &copy; grasshopper.com
+* <img src="img/small_seo.png"/> "SEO" &copy; moz.com
+* see [the repo](http://github.com/smaroukis/traction_summary) for how I created these slides with reveal.js and reveal-md
